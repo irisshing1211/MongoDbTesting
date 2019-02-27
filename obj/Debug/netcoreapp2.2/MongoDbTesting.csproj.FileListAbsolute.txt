@@ -1,0 +1,11 @@
+D:\GitHub\MongoDbTesting\bin\Debug\netcoreapp2.2\MongoDbTesting.deps.json
+D:\GitHub\MongoDbTesting\bin\Debug\netcoreapp2.2\MongoDbTesting.runtimeconfig.json
+D:\GitHub\MongoDbTesting\bin\Debug\netcoreapp2.2\MongoDbTesting.runtimeconfig.dev.json
+D:\GitHub\MongoDbTesting\bin\Debug\netcoreapp2.2\MongoDbTesting.dll
+D:\GitHub\MongoDbTesting\obj\Debug\netcoreapp2.2\MongoDbTesting.csprojAssemblyReference.cache
+D:\GitHub\MongoDbTesting\obj\Debug\netcoreapp2.2\MongoDbTesting.csproj.CoreCompileInputs.cache
+D:\GitHub\MongoDbTesting\obj\Debug\netcoreapp2.2\MongoDbTesting.AssemblyInfoInputs.cache
+D:\GitHub\MongoDbTesting\obj\Debug\netcoreapp2.2\MongoDbTesting.AssemblyInfo.cs
+D:\GitHub\MongoDbTesting\bin\Debug\netcoreapp2.2\MongoDbTesting.pdb
+D:\GitHub\MongoDbTesting\obj\Debug\netcoreapp2.2\MongoDbTesting.dll
+D:\GitHub\MongoDbTesting\obj\Debug\netcoreapp2.2\MongoDbTesting.pdb
